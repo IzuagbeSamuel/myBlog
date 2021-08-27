@@ -1,0 +1,21 @@
+h1 {
+  text-transform: capitalize;
+  text-align: center;
+  color: red;
+}
+
+p {
+  font-size: 25px;
+  margin-left: 20px;
+  color: white;
+}
+
+li {
+  font-size: 20px;
+  color: red;
+  font-family: monospace;
+}
+
+body {
+  background-color: black;
+}
